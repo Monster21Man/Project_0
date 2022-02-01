@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;  //to be able to read from the keyboard
 
 public class Pay
