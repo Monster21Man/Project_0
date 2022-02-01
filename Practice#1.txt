@@ -27,6 +27,8 @@ public class Pay
 
       //display results
       System.out.println("You earned $" + pay);
+      System.out.println("Have a good day!");
+
    }
 }
 
